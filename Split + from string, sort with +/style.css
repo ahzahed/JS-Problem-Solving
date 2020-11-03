@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    background: cornflowerblue;
+    border-radius: 25px;
+    margin: 50px;
+    padding: 50px;
+}
